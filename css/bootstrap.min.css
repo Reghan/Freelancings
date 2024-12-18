@@ -8299,7 +8299,10 @@ fieldset:disabled .btn {
 }
 
 .text-danger {
-    color: #8B1695;
+    background: -webkit-linear-gradient(left, #c875ff, #c71770);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .text-light {
