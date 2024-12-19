@@ -275,7 +275,7 @@ h6,
 .display-1 {
     color: transparent;
     -webkit-text-stroke: .1px #fdf8f9;
-    background: url(../img/back.png);
+    background: url(../img/heroTextBackground.png);
     -webkit-background-clip: text;
     background-position: 0 0;
     text-shadow: 2px 2px 5px rgba(245, 245, 245, 0.3);
